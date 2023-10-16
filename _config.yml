@@ -1,5 +1,5 @@
 title: Iqbal Fariz Novirianto
 logo: /assets/img/profil_circle_resize.png
-description: About me
-  - Email : iqball.frz@gmail.com
+contact:
+  email: iqball.frz@gmail.com
 theme: jekyll-theme-minimal
