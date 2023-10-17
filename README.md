@@ -1,8 +1,9 @@
 <img src="/assets/img/profil_circle_resize.png" alt="profil_photo" align="right" height="150" width="150">
 
 # Iqbal Fariz Novirianto
-**Hello, I am an Android developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Android apps.**<br><br>
-<img src="/assets/img/email_account.png" height="35" weigth="35">&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+**Hello, I am an Android developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Android apps.**
+<br><br><br>
+<img src="/assets/img/email_account_4x.png" height="45">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iqbal-fn/" target="_blank"><img src="/assets/img/linkedin_account_4x.png" height="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/phone_number_4x.png" height="45">
 <br>
 
 # Projects
