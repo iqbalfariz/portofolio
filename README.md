@@ -1,9 +1,4 @@
-# portofolio
+# Projects
 
-### Work Experience
-Android Intern at Bluebird Group
-- 
--
-
-### Projects
-EEG Band Discover
+## Yourney APP
+![Yourney Preview](/assets/img/yourney_project_preview.png)
