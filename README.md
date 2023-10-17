@@ -1,7 +1,7 @@
 <img src="/assets/img/profil_circle_resize.png" alt="profil_photo" align="right" height="150" width="150">
 
 # Iqbal Fariz Novirianto
-**Hello, I am an Android developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Android apps.**
+**Hello, I am an Android developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Android apps. Currently, I am an Android intern at Bluebird Group, working on the MyBluebird project using the Kotlin programming language and Android Studio.**
 <br><br><br>
 <img src="/assets/img/email_account_4x.png" height="45">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/iqbal-fn/" target="_blank"><img src="/assets/img/linkedin_account_4x.png" height="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/phone_number_4x.png" height="45">
 <br>
