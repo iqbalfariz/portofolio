@@ -14,7 +14,7 @@
 MyBluebird is an application from the Bluebird Group, where users can book various taxi services from Bluebird. The features available in the app include Ride, Rent, Delivery, and EzPay. With these features, users can book or rent taxis online. Users can also directly order a taxi at their location and make cashless payments using the EzPay feature.
 
 ### Contributed Techincally
-The MyBluebird project was developed using the Kotlin programming language and Android Studio. This project follows a clean architecture, utilizes the MVVM pattern, employs Koin for dependency injection, and implements data binding. During its development, I contributed to enhancing various features within the Ride, Rent, and Delivery modules. Additionally, I integrated new features with API endpoints provided by the backend team using Kotlin Retrofit and Kotlin Coroutines. I also worked on bug fixes based on bug reports identified during the regression and alpha testing phases prior to the release of the latest application version.
+The MyBluebird project was developed using the Kotlin programming language and Android Studio. This project follows a clean architecture, utilizes the MVVM pattern, employs Koin for dependency injection, and implements data binding. During its development, I contributed as an Android Developer to enhancing various features within the Ride, Rent, and Delivery modules. Additionally, I integrated new features with API endpoints provided by the backend team using Kotlin Retrofit and Kotlin Coroutines. I also worked on bug fixes based on bug reports identified during the regression and alpha testing phases prior to the release of the latest application version.
 
 ## Fatless App
 ![Fatless Preview](/assets/img/fatless_project_preview.png)
